@@ -31,8 +31,11 @@ calculated pi: 3.138
 
 # Plots
 Generated 10000 points within the domain of [-1, 1] in x axis and [-1, 1] in y axis. The radius of the circle is 1 unit and the length of the square is 2 unit. 
+
 ![image](plots/points.png)
-The approximation of Pi will converge with enough number of points. Pi is the ratio of number of points in the circle over t he number of points in the square.
+
+The approximation of Pi will converge with enough number of points. Pi is the ratio of number of points in the circle over the number of points in the square.
+
 ![image](plots/pi.png)
 
 # Reference
